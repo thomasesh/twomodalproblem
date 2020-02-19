@@ -29,8 +29,8 @@ export class ModalAService {
         contentStyle: {
           overflow: 'auto',
           backgroundColor: '#fff',
-          'min-width': '800px',
-          'min-height': '600px'
+          'min-width': '400px',
+          'min-height': '300px'
         }
       });
 
